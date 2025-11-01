@@ -1,2 +1,1 @@
-# leetcode
-My daily LeetCode solutions with explanations.
+"# LeetCode Solutions" 
