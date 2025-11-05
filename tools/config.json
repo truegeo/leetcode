@@ -1,0 +1,13 @@
+{
+    "languages": {
+        "python": {
+            "ext": "py",
+            "boilerplate": "# Write your Python solution here\n"
+        },
+        "csharp": {
+            "ext": "cs",
+            "boilerplate": "// Write your C# solution here\n"
+        }
+    },
+    "default_template": "problem-view"
+}

@@ -1,0 +1,15 @@
+{
+    "problem_number": 1,
+    "title": "Two Sum",
+    "slug": "two-sum",
+    "template": "problem-view",
+    "languages": [
+        "python",
+        "csharp"
+    ],
+    "created_at": "2025-11-01T18:37:15",
+    "solved": false,
+    "notes_complete": false,
+    "tags": [],
+    "difficulty": "Easy"
+}
