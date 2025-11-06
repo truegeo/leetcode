@@ -2,12 +2,13 @@ import os
 import sys
 import json
 from datetime import datetime
+from typing import Optional
 
 # Define base directories for clarity and easy modification.
 PROBLEMS_DIR = "problems"
 TEMPLATES_DIR = "templates"
 
-def find_problem_folder(problem_number: str) -> str | None:
+def find_problem_folder(problem_number: str) -> Optional[str]:
     """
     Finds the full path to a problem's folder using its number.
     The number is padded to four digits to match the folder naming convention.
