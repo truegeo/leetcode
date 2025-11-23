@@ -7,9 +7,17 @@
         "python",
         "csharp"
     ],
-    "created_at": "2025-11-01T18:37:15",
-    "solved": false,
+    "created_at": "2025-11-08T17:55:23",
+    "solved": true,
     "notes_complete": false,
-    "tags": [],
-    "difficulty": "Easy"
+    "tags": [
+        "array",
+        "hash-table"
+    ],
+    "difficulty": "Easy",
+    "links": {
+        "leetcode": "https://leetcode.com/problems/two-sum/",
+        "github": "",
+        "discussion": ""
+    }
 }

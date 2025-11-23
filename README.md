@@ -84,7 +84,9 @@ This is the core loop for using the system. All commands are run from a **new te
     Open your browser and navigate to the problem's URL.
     **`http://localhost:5173/view/0002_add-two-numbers`**
 
-For a complete breakdown of every command and workflow, please read the **[Developer's Guide](DEVELOPER_GUIDE.md)**.
+For a quick reminder of the daily workflow, see the **[Quick Start Guide](QUICK_START.md)**.
+
+For a complete breakdown of every command and system detail, please read the **[Developer's Guide](DEVELOPER_GUIDE.md)**.
 
 ---
 

@@ -20,8 +20,10 @@ const ProblemViewer: React.FC = () => {
   // `React.lazy` combined with a dynamic import() tells React to only load this file
   // when it's needed. The `@problems` alias we created in the Vite config is used here
   // to construct the correct path to the problem's UI file.
+
+
   const ProblemComponent = React.lazy(() => 
-    import(`@problems/${slug}/ui/ProblemViewTemplate.tsx`)
+  import(`../../problems/${slug}/ui/ProblemViewTemplate.tsx`)
   ) as LazyComponent;
 
   return (
